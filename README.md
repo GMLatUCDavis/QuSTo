@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/350409561.svg)](https://zenodo.org/badge/latestdoi/350409561)
+
 # QuSTo : **Qu**antifying **S**urface **To**pography                                                       
 
 QuSTo, a versatile, open-source program developed in Python to quantify surface topography from 2D profiles. The program calculates metrics that quantify surface roughness and the size (i.e. height and length) and shape (i.e. convexity constant (CC), skewness (Sk), and kurtosis (Ku)) of surface structures. Currently, QuSTo is available as a Windows executable, which neatly packs a python interpreter and the all the computational packages. The accompanying QuSlicer module gives users and optional way to obtain 2D profiles from 3D images. The files created from QuSlicer can then be loaded and analyzed with QuSTo. 
